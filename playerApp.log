@@ -1,0 +1,806 @@
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:09:21 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - Under Construction
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:09:29 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - Under Construction
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:09:31 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - Under Construction
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:09:32 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:09:34 INFO  com.onlineshoping.Main  - Thanks for using the APP we will see you soon :)
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:42:34 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - Under Construction
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-16 16:42:50 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-16 16:43:48 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-16 16:43:50 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 09:04:34 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 09:04:39 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 09:04:41 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 09:04:43 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 
+
+Going back to Main Menu
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 09:04:45 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:04:18 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:04:24 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:04:29 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:04:38 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:04:41 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:14:22 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:14:25 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:14:31 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:15:09 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:15:21 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:17:01 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:03 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:07 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:22 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 
+
+Going back to Main Menu
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:17:34 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:38 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:44 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:17:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:18:02 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:26:52 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - 1)Enter your Name 
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - 2)Enter your Email 
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - 3)Enter your Password 
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - 4)Go back to Main Menu
+[main] 2021-08-17 11:26:54 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:26:56 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 11:26:58 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 11:27:00 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:27:01 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:38:48 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 11:38:51 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 11:38:53 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 11:38:56 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 11:38:57 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:38:59 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 11:39:04 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 11:39:06 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 11:39:19 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:39:20 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:40:05 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 11:40:36 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 11:40:44 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 11:40:46 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 11:40:49 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 11:40:50 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:16:40 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 12:16:43 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 12:16:44 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 12:16:45 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 12:16:46 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:16:47 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:22:31 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 12:22:42 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 12:22:43 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 12:22:44 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 12:22:45 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:22:46 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:24:21 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 12:24:23 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 12:24:27 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 12:24:28 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 12:24:29 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 12:24:30 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:27:58 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:30:38 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:30:57 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 13:30:59 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 13:31:00 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 13:31:06 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 13:31:11 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 13:31:22 ERROR com.gowtham.dao.impl.CustomerLoginDAOimpl  - java.sql.SQLException: No value specified for parameter 4
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 13:31:22 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:35:02 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 13:35:04 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 13:35:08 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 13:35:11 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 13:35:17 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 13:35:28 INFO  com.onlineshoping.Main  - CustomerDetails [id=0, cust_name=rohith, cust_email=rohith@gmail.com, cust_password=rohith123]
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Welcome Customer..Happy to see you here :)
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Enter your Name 
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Enter your Email 
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Enter your Password 
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - 1)Go back to Main Menu
+[main] 2021-08-17 13:35:29 INFO  com.onlineshoping.Main  - Please enter your choice(1)
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:39:10 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 13:39:44 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-17 13:39:46 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-17 13:39:46 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - Customer has been added sucessfully
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 13:39:52 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:32:20 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:32:23 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:32:31 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:32:35 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:32:40 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:32:45 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:32:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:32:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:32:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:32:46 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:32:47 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:32:47 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - Under Construction
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:33:05 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:35:23 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:35:27 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:35:33 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:35:41 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:36:26 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:36:29 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:36:33 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:36:34 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:36:44 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:36:49 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:36:53 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:55:38 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 15:55:41 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-17 15:56:01 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - Customer logged in sucessfully.. Below are the products available
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - 3)Register as Customer
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 15:56:05 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:13:42 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:13:48 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:14:02 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - Customer logged in sucessfully.. Below are the products available
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:14:08 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:18:15 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:18:16 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:18:17 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:22:16 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:22:21 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:22:29 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - Login successfull..
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:22:33 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:29:48 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:29:51 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:29:56 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:30:00 WARN  com.onlineshoping.Main  - Invalid option Please try again later
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:30:00 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:30:51 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:30:54 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:31:00 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:31:03 WARN  com.onlineshoping.Main  - Invalid option Please try again later
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:31:03 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:36:03 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 16:36:06 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-17 16:36:14 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-17 16:36:17 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-17 16:36:17 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-17 16:36:17 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-17 16:36:19 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-17 16:36:19 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-17 16:36:19 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-17 16:36:20 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-17 16:36:20 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-17 16:36:20 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-17 16:36:21 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-17 16:36:21 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-17 16:36:21 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-17 16:36:23 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 09:13:25 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 09:13:36 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 09:13:46 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 09:13:50 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-18 09:13:50 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-18 09:13:50 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-18 09:13:53 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-18 09:13:53 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-18 09:13:53 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-18 09:13:55 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-18 09:13:55 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-18 09:13:55 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 09:14:25 INFO  com.onlineshoping.Main  - Thanks for using the APP we will see you soon :)
