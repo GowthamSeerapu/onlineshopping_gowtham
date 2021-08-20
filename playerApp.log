@@ -804,3 +804,1154 @@ Main Menu
 [main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - 4)Exit
 [main] 2021-08-18 09:13:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
 [main] 2021-08-18 09:14:25 INFO  com.onlineshoping.Main  - Thanks for using the APP we will see you soon :)
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:11:00 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:11:03 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:11:22 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:11:26 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:11:36 INFO  com.onlineshoping.Main  - Enter Product Name: 
+[main] 2021-08-18 12:11:46 INFO  com.onlineshoping.Main  - Enter Product Price: 
+[main] 2021-08-18 12:11:49 INFO  com.onlineshoping.Main  - Enter Product Brand: 
+[main] 2021-08-18 12:11:49 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:21:21 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:21:24 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:21:39 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:21:46 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:21:49 INFO  com.onlineshoping.Main  - Enter Product Name: 
+[main] 2021-08-18 12:21:51 INFO  com.onlineshoping.Main  - Enter Product Price: 
+[main] 2021-08-18 12:21:54 INFO  com.onlineshoping.Main  - Enter Product Brand: 
+[main] 2021-08-18 12:21:54 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:21:59 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:21:59 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:31:32 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:32:02 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:32:10 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:32:14 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:32:16 INFO  com.onlineshoping.Main  - Enter Product Name: 
+[main] 2021-08-18 12:32:16 INFO  com.onlineshoping.Main  - Enter Product Price: 
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:34:13 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:34:23 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:34:29 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:34:33 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:34:35 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 12:34:37 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 12:34:41 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 12:34:44 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:34:55 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:34:55 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:39:32 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:40:07 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:40:14 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:40:32 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 12:41:56 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 12:41:59 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 12:42:02 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:42:14 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'product_brand' cannot be null
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:42:14 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:42:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:43:00 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:43:12 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:43:16 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:43:18 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 12:43:21 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 12:43:23 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 12:43:25 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - Product has been added sucessfully
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:43:32 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:52:59 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:53:10 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 12:53:16 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 12:53:19 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 12:53:21 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 12:53:24 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 12:53:27 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 12:53:30 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 12:53:37 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 12:53:37 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:07:43 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:07:46 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:07:54 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:07:57 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:07:58 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:08:02 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:08:05 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 13:08:08 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 13:08:16 DEBUG com.online.customerloginimpl.ProductServiceDAOimpl  - 
+[main] 2021-08-18 13:08:16 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:08:16 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:09:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:09:59 WARN  com.onlineshoping.Main  - Invalid Search option..Choice should be only b/w 1-4 only.Kindly Retry 
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:09:59 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:10:02 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:10:09 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:10:13 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:10:14 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:10:17 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:10:18 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 13:10:20 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 13:10:23 INFO  com.online.customerloginimpl.ProductServiceDAOimpl  - Inside createProductService
+[main] 2021-08-18 13:10:28 DEBUG com.online.customerloginimpl.ProductServiceDAOimpl  - 
+[main] 2021-08-18 13:10:28 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:10:28 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:11:57 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:12:00 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:12:05 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:12:08 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:12:09 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:12:11 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:12:15 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 13:12:16 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 13:12:19 INFO  com.online.customerloginimpl.ProductServiceDAOimpl  - Inside createProductService
+[main] 2021-08-18 13:12:19 INFO  com.online.customerloginimpl.ProductServiceDAOimpl  - ProductDetails [id=0, product_price=0, productname=null, product_brand=null, product_catergory=null]
+[main] 2021-08-18 13:12:24 DEBUG com.online.customerloginimpl.ProductServiceDAOimpl  - 
+[main] 2021-08-18 13:12:24 ERROR com.online.customerloginimpl.ProductServiceDAOimpl  - java.sql.SQLIntegrityConstraintViolationException: Column 'productname' cannot be null
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - Internal error occured contact sysadmin
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:12:24 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:18:02 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:18:06 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:18:11 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:18:13 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:18:14 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:18:17 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:18:19 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-18 13:18:24 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-18 13:18:27 INFO  com.online.customerloginimpl.ProductServiceDAOimpl  - Inside createProductService
+[main] 2021-08-18 13:18:27 INFO  com.online.customerloginimpl.ProductServiceDAOimpl  - ProductDetails [id=0, product_price=50000, productname=iphone11, product_brand=iphone, product_catergory=mobile]
+[main] 2021-08-18 13:18:31 DEBUG com.online.customerloginimpl.ProductServiceDAOimpl  - iphone11
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - Product has been added sucessfully
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:18:31 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:37:15 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:37:19 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:37:20 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:37:23 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:38:30 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:38:33 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:38:34 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:38:35 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:38:36 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:41:05 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:41:08 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 13:41:20 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 13:41:24 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-18 13:41:24 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-18 13:41:24 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:41:28 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:41:34 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 13:41:36 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 13:41:37 INFO  com.onlineshoping.Main  - 1)Search your products
+[main] 2021-08-18 13:41:37 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-18 13:41:37 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:42:13 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:42:17 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:42:19 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:42:19 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:42:19 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:42:30 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:47:01 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:47:08 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:47:10 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:47:11 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:47:11 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:47:59 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:48:01 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:48:03 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:48:03 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:49:13 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:49:17 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:49:18 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:49:19 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 13:55:47 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:55:57 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 13:55:58 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 13:55:59 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-18 13:55:59 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:10:08 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:10:56 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 15:11:43 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 15:11:45 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:14:07 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:14:10 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 15:14:11 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:14:14 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:31:44 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:31:47 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-18 15:31:49 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - Invalid Credentials
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:31:50 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:31:52 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 15:31:53 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:31:54 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:32:46 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:32:51 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 15:32:52 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - Invalid Credentials
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:32:53 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:33:49 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:33:54 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-18 15:33:55 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - Invalid Credentials
+Try again with Correct Email and Password 
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-18 15:33:56 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 12:55:40 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 12:55:49 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-19 12:55:58 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-19 12:56:06 INFO  com.onlineshoping.Main  - Employee logged in sucessfully
+[main] 2021-08-19 12:56:06 INFO  com.onlineshoping.Main  - 
+Enter Product Name: 
+[main] 2021-08-19 12:56:17 INFO  com.onlineshoping.Main  - 
+Enter Product Price: 
+[main] 2021-08-19 12:56:20 INFO  com.onlineshoping.Main  - 
+Enter Product Brand: 
+[main] 2021-08-19 12:56:27 INFO  com.onlineshoping.Main  - Enter Product Catergory: 
+[main] 2021-08-19 12:56:30 INFO  com.online.dao.impl.ProductDAOimpl  - Inside createProductService
+[main] 2021-08-19 12:56:36 DEBUG com.online.dao.impl.ProductDAOimpl  - Rubik Cube
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - Product has been added sucessfully
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 12:56:36 INFO  com.onlineshoping.Main  - Enter your employee email
+[main] 2021-08-19 12:57:09 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - Invalid Credentials
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 12:57:15 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 12:58:04 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 12:58:10 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 12:58:14 INFO  com.onlineshoping.Main  - 1)View products
+[main] 2021-08-19 12:58:14 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 12:58:14 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 12:58:16 INFO  com.onlineshoping.Main  - 1)View products
+[main] 2021-08-19 12:58:16 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 12:58:16 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 12:58:22 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 12:58:24 INFO  com.onlineshoping.Main  - Enter your name: 
+[main] 2021-08-19 12:58:30 INFO  com.onlineshoping.Main  - Enter your Email: 
+[main] 2021-08-19 12:58:38 INFO  com.onlineshoping.Main  - Enter your password
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - Customer has been added sucessfully
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 12:58:42 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:21:48 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:21:54 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:22:04 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:22:08 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:22:08 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:22:08 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:22:09 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:24:01 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:24:04 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:24:15 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:24:21 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:24:21 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:24:21 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:24:23 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:24:38 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:24:41 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:24:51 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:24:54 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:24:54 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:24:54 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:24:57 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:25:02 ERROR com.online.dao.impl.ViewProductDAOImpl  - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:25:37 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:25:41 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:25:49 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:25:53 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:25:53 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:25:53 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:25:54 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:25:59 ERROR com.online.dao.impl.ViewProductDAOImpl  - java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0).
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:27:49 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:27:51 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:28:01 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:28:05 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:28:05 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:28:05 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:28:07 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - ProductDetails [id=0, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:28:12 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:45:49 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:45:52 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:46:03 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:46:06 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:46:06 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:46:06 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:46:09 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:46:14 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:46:46 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:46:53 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:46:54 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:55:48 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 16:55:53 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 16:56:09 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 16:56:14 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:56:14 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:56:14 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:56:16 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 16:56:22 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 16:58:40 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:04:06 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:04:13 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:04:24 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:04:55 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:05:05 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:05:13 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:10:11 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:10:18 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:10:30 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:12:50 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:12:59 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:13:09 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:13:41 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:15:06 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:15:07 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:15:17 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:15:47 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:16:46 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:16:58 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:17:02 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:18:17 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:18:25 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:18:31 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:20:32 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:20:39 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:20:50 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:21:47 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:21:49 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:21:59 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:33:12 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:33:14 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:33:21 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:35:31 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:35:34 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:36:13 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:39:10 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:39:12 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:39:14 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-19 22:42:46 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-19 22:42:48 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-19 22:42:51 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-19 22:42:58 INFO  com.onlineshoping.Main  - Sucessfully logged in!!!
+[main] 2021-08-19 22:42:58 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 22:42:58 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 22:42:58 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-19 22:43:02 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 00:02:37 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 00:02:58 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 00:03:06 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-20 00:03:14 INFO  com.onlineshoping.Main  - Sucessfully logged in!!!
+[main] 2021-08-20 00:03:14 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-20 00:03:14 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-20 00:03:14 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-20 00:03:24 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-20 00:03:25 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-20 00:03:25 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-20 00:03:25 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-20 00:03:25 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 00:05:05 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 00:05:17 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 00:05:28 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-20 00:05:42 INFO  com.onlineshoping.Main  - Sucessfully logged in!!!
+[main] 2021-08-20 00:05:42 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-20 00:05:42 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-20 00:05:42 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-20 00:05:43 INFO  com.onlineshoping.Main  - Below are the Products
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - Select the products from below
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=1, product_price=49999, productname=Tv, product_brand=Vu, product_catergory=Electronics]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=2, product_price=47999, productname=iPhone11, product_brand=iPhone, product_catergory=Electronics]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=3, product_price=29999, productname=Laptop, product_brand=HP, product_catergory=Electronics]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=4, product_price=999, productname=T-shirt, product_brand=Levi's, product_catergory=Clothing]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=5, product_price=1499, productname=Shirt, product_brand=US Polo, product_catergory=Clothing]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=6, product_price=2999, productname=Trouser, product_brand=Roadster, product_catergory=Clothing]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=7, product_price=2599, productname=Sofa, product_brand=WakeFit, product_catergory=Furniture]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=8, product_price=499, productname=Chair, product_brand=Polo, product_catergory=Furniture]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=9, product_price=1399, productname=BeanBag, product_brand=Solimo , product_catergory=Furniture]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=10, product_price=499, productname=Table, product_brand=Solimo, product_catergory=Furniture]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - ProductDetails [id=11, product_price=150, productname=Rubik Cube, product_brand=Ruby, product_catergory=Games]
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - 1)View Products
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - 2)View Orders
+[main] 2021-08-20 00:05:44 INFO  com.onlineshoping.Main  - 3)Logout
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 00:05:46 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 10:10:11 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:10:17 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 10:10:19 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 10:19:28 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:19:32 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 10:19:33 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 10:21:10 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:21:13 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 10:21:19 INFO  com.onlineshoping.Main  - Enter your Password
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - Welcome to Konuko OnlineShopping App V1.0
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - ==========================================
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - 
+
+Main Menu
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - 1)Login as Employee
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - 2)Login as Customer
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - 3)New  Customer? Register here
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - 4)Exit
+[main] 2021-08-20 10:23:00 INFO  com.onlineshoping.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 10:23:03 INFO  com.onlineshoping.Main  - Enter your Email
+[main] 2021-08-20 10:23:07 INFO  com.onlineshoping.Main  - Enter your Password

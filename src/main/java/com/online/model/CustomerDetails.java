@@ -39,7 +39,7 @@ public class CustomerDetails {
 	public void setCust_password(String cust_password) {
 		this.cust_password = cust_password;
 	}
-
+//Constuctors
 	public CustomerDetails(String cust_name, String cust_email, String cust_password) {
 		super();
 		
